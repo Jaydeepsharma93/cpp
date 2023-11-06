@@ -26,8 +26,4 @@ main()
     else{
   	    cout << "enter 4 diget";
     }
-	
-	
-	 
 }
-
